@@ -5,9 +5,25 @@
 I am a Backend Developer with knowledge in API development built in Django Rest Framework with Python language. I have experience with AGILE development methodologies such as Scrum. I use Python as my main programming language. I have experience with relational databases and several important libraries such as Swagger, Django CSRF Protection, Middleware and others.
 
  <t----------------------------------------------------------------------------------------------------------------------------------------------------->
+
+  
+  
+  
+🔭 I’m currently collaborating with https://cv.hackademy.lat/
+
+🌱 I’m currently learning Back End developement with Django Rest Framework
+
+👨‍💻 All of my projects are available at https://github.com/miriam-moztap
+
+💬 Ask me about Python, Django, Docker, Render, API Rest 
+
+📫 How to reach me: miriamfelipe_qfb@hotmail.com
    
-   
-<h1 align="center">Github Metrics </h1><p align="center">
+  
+<t----------------------------------------------------------------------------------------------------------------------------------------------------->
+
+ 
+ <h1 align="center">Github Metrics </h1><p align="center">
 <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miriam-moztap&theme=github_dark" />
 </p>
    
@@ -22,7 +38,7 @@ I am a Backend Developer with knowledge in API development built in Django Rest 
  <t----------------------------------------------------------------------------------------------------------------------------------------------------->   
    
    <p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true"
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=miriam-moztap&theme=tokyonight_duo&hide_border=true"
 </p>
      
  <t----------------------------------------------------------------------------------------------------------------------------------------------------->   
