@@ -15,7 +15,7 @@ Back-End developer with experience in creating APIs in Django Rest Framework wit
 
   
 
-🌱 I’m currently learning Back End developement 
+🌱 I’m currently learning Back End development 
 
 👨‍💻 All of my projects are available at https://github.com/miriam-moztap
 
