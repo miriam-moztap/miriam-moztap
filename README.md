@@ -2,7 +2,7 @@
  
  <t----------------------------------------------------------------------------------------------------------------------------------------------------->
   
-I am a Backend Developer with knowledge in API development built in Django Rest Framework with Python language. I have experience with AGILE development methodologies such as Scrum. I use Python as my main programming language. I have experience with relational databases and several important libraries such as Swagger, Django CSRF Protection, Middleware and others.
+Back-End developer with experience in creating APIs in Django Rest Framework with Python language. Experience with relational databases. Currently in training at Hackademy school.
 
  <t----------------------------------------------------------------------------------------------------------------------------------------------------->
 
