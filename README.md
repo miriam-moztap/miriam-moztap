@@ -14,9 +14,8 @@ Back-End developer with experience in creating APIs in Django Rest Framework wit
  <t----------------------------------------------------------------------------------------------------------------------------------------------------->
 
   
-🔭 I’m currently collaborating with https://cv.hackademy.lat/
 
-🌱 I’m currently learning Back End developement with Django Rest Framework
+🌱 I’m currently learning Back End developement 
 
 👨‍💻 All of my projects are available at https://github.com/miriam-moztap
 
