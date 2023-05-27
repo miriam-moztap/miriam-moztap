@@ -35,14 +35,7 @@ I am a Backend Developer with knowledge in API development built in Django Rest 
    
  <t-----------------------------------------------------------------------------------------------------------------------------------------------------> 
   
-<div align="center">
-<a href="https://facebook.com/👽" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/👽/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miriam-felipe-46b55a124/)
-
-
- <t-----------------------------------------------------------------------------------------------------------------------------------------------------> 
    
  
    ```mermaid
@@ -60,7 +53,7 @@ graph TD;
    ```
    
  <t----------------------------------------------------------------------------------------------------------------------------------------------------->   
-   
+   <div align="center"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="48" title="Discord">   
@@ -68,6 +61,7 @@ graph TD;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="48" title="StackOverFlow">   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux"> 
+  </div>
   
  <t----------------------------------------------------------------------------------------------------------------------------------------------------->     
    
@@ -78,4 +72,14 @@ graph TD;
 <br>
 </div>
   
- 
+
+
+ <t-----------------------------------------------------------------------------------------------------------------------------------------------------> 
+  
+  
+  <div align="center">
+<a href="https://facebook.com/👽" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/👽/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miriam-felipe-46b55a124/)
+
