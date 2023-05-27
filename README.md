@@ -19,7 +19,7 @@ Back-End developer with experience in creating APIs in Django Rest Framework wit
 
 👨‍💻 All of my projects are available at https://github.com/miriam-moztap
 
-💬 Ask me about Python, Django, Docker, Render, API Rest 
+💬 Ask me about Python, Django, API Rest 
 
 📫 How to reach me: miriamfelipe_qfb@hotmail.com
    
