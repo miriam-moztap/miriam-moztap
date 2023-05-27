@@ -39,7 +39,7 @@ I am a Backend Developer with knowledge in API development built in Django Rest 
 <a href="https://facebook.com/👽" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/👽/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/👽/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miriam-felipe-46b55a124/)
 
 
  <t-----------------------------------------------------------------------------------------------------------------------------------------------------> 
