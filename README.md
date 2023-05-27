@@ -6,8 +6,13 @@ I am a Backend Developer with knowledge in API development built in Django Rest 
 
  <t----------------------------------------------------------------------------------------------------------------------------------------------------->
 
-  
-  
+ 
+ <h1 align="center">Github Metrics </h1><p align="center">
+<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miriam-moztap&theme=github_dark" />
+</p>
+   
+ <t----------------------------------------------------------------------------------------------------------------------------------------------------->
+
   
 🔭 I’m currently collaborating with https://cv.hackademy.lat/
 
@@ -21,29 +26,15 @@ I am a Backend Developer with knowledge in API development built in Django Rest 
    
   
 <t----------------------------------------------------------------------------------------------------------------------------------------------------->
-
- 
- <h1 align="center">Github Metrics </h1><p align="center">
-<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miriam-moztap&theme=github_dark" />
-</p>
-   
- <t----------------------------------------------------------------------------------------------------------------------------------------------------->
  
    <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=miriam-moztap&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Miriam-moztap github stats" /> 
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=miriam-moztap&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Miriam-moztap github stats" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miriam-moztap&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miriam-moztap&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
    
- <t----------------------------------------------------------------------------------------------------------------------------------------------------->   
-   
-   <p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=miriam-moztap&theme=tokyonight_duo&hide_border=true"
-</p>
-     
- <t----------------------------------------------------------------------------------------------------------------------------------------------------->   
-   
-   
+ <t-----------------------------------------------------------------------------------------------------------------------------------------------------> 
+  
 <div align="center">
 <a href="https://facebook.com/👽" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/👽/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
@@ -51,16 +42,12 @@ I am a Backend Developer with knowledge in API development built in Django Rest 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/👽/)
 
 
- <t----------------------------------------------------------------------------------------------------------------------------------------------------->   
+ <t-----------------------------------------------------------------------------------------------------------------------------------------------------> 
    
-     
-   
+ 
    ```mermaid
 graph TD;
-    Software-Developer-->Git;
-    Software-Developer-->GitKraken;
-    Software-Developer-->Docker;
-    Software-Developer-->Render;
+    
     Software-Developer-->Back-End;
     Back-End-->Django;
     Back-End-->DRF;
@@ -68,8 +55,7 @@ graph TD;
     Back-End-->SQL;
     Back-End-->Python;
     Back-End-->DBeaver;
-    SQL-->PostgreSQL;
-    SQL-->pgAdmin;
+   
     
    ```
    
@@ -92,6 +78,4 @@ graph TD;
 <br>
 </div>
   
- <t----------------------------------------------------------------------------------------------------------------------------------------------------->    
-   
-   ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+ 
