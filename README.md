@@ -2,7 +2,7 @@
  
  <t----------------------------------------------------------------------------------------------------------------------------------------------------->
   
-Back-End developer with experience in creating APIs in Django Rest Framework with Python language. Experience with relational databases. Currently in training at Hackademy school.
+Back-End developer with experience in creating APIs in Django Rest Framework with Python language. Experience with relational databases. Currently in training at Hackademy school, https://hackwomen.dev/
 
  <t----------------------------------------------------------------------------------------------------------------------------------------------------->
 
