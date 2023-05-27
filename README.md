@@ -31,25 +31,7 @@ Back-End developer with experience in creating APIs in Django Rest Framework wit
   
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miriam-moztap&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
-   
- <t-----------------------------------------------------------------------------------------------------------------------------------------------------> 
-  
-
-   
  
-   ```mermaid
-graph TD;
-    
-    Software-Developer-->Back-End;
-    Back-End-->Django;
-    Back-End-->DRF;
-    Back-End-->API-Rest;
-    Back-End-->SQL;
-    Back-End-->Python;
-    Back-End-->DBeaver;
-   
-    
-   ```
    
  <t----------------------------------------------------------------------------------------------------------------------------------------------------->   
    <div align="center"> 
