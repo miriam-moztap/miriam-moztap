@@ -2,7 +2,7 @@
  
  <t----------------------------------------------------------------------------------------------------------------------------------------------------->
   
-I have worked as a field service engineer and have a keen interest in web development, actively seeking exciting career prospects. With one year of experience in Python and the Django Rest Framework. Committed to maintaining high professional standards and values such as teamwork and communication, I am dedicated to hone my skills through the challenging Laboratoria bootcamp. My goal is to contribute to the digital world with integrity and excellence. In my role as a service engineer, I have honed my problem-solving abilities and developed exceptional customer service skills. -- https://hackwomen.dev/
+I have worked as a field service engineer and have a keen interest in web development, actively seeking exciting career prospects. With one year of experience in Python and the Django Rest Framework. Committed to maintaining high professional standards and values such as teamwork and communication, I am dedicated to hone my skills through the challenging Laboratoria bootcamp. My goal is to contribute to the digital world with integrity and excellence. In my role as a service engineer, I have honed my problem-solving abilities and developed exceptional customer service skills. -- https://hackwomen.dev/  ||  https://www.laboratoria.la 
 
  <t----------------------------------------------------------------------------------------------------------------------------------------------------->
 
