@@ -2,7 +2,7 @@
  
  <t----------------------------------------------------------------------------------------------------------------------------------------------------->
   
-I have worked as a field service engineer and have a keen interest in web development, actively seeking exciting career prospects. With one year of experience in Python and the Django Rest Framework, I am currently immersed in learning JavaScript, HTML, and CSS. Committed to maintaining high professional standards and values such as teamwork and communication, I am dedicated to hone my skills through the challenging Laboratoria bootcamp. My goal is to contribute to the digital world with integrity and excellence. In my role as a service engineer, I have honed my problem-solving abilities and developed exceptional customer service skills. -- https://hackwomen.dev/
+I have worked as a field service engineer and have a keen interest in web development, actively seeking exciting career prospects. With one year of experience in Python and the Django Rest Framework. Committed to maintaining high professional standards and values such as teamwork and communication, I am dedicated to hone my skills through the challenging Laboratoria bootcamp. My goal is to contribute to the digital world with integrity and excellence. In my role as a service engineer, I have honed my problem-solving abilities and developed exceptional customer service skills. -- https://hackwomen.dev/
 
  <t----------------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -15,11 +15,11 @@ I have worked as a field service engineer and have a keen interest in web develo
 
   
 
-🌱 I’m currently learning Back End development 
+🌱 I’m currently learning JavaScript, HTML, and CSS 
 
 👨‍💻 All of my projects are available at https://github.com/miriam-moztap
 
-💬 Ask me about Python, Django, API Rest 
+💬 Ask me about Python, Django, API Rest, SCRUM methodology, DOM usage, Prompting, ChatGPT, Github, Jest, Postman, JSONParser, PostgreSQL, DBeaver, Render, Docker, Fixtures, Login, Token, CRUD
 
 📫 How to reach me: miriamfelipe_qfb@hotmail.com
    
